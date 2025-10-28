@@ -48,7 +48,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/alphashivesh/ice-slide-duel.git](https://github.com/alphashivesh/ice-slide-duel.git)
+    git clone [https://github.com/Alphashivesh/ice-slide.git](https://github.com/Alphashivesh/ice-slide.git)
     cd ice-slide-duel
     ```
 2.  **Install dependencies:**
