@@ -1,0 +1,3 @@
+Ice Slide Duel is a 2-player puzzle game where opponents take turns sliding around an icy grid. The first player to strategically navigate walls, traps, and portals to reach the target wins.
+
+Ice Slide Duel is a 2-player competitive puzzle game where you face off against an opponent on a single keyboard. The core mechanic is simple: when you move, you slide uncontrollably on the ice until you hit an obstacle. You must use walls, traps, and portals to navigate the treacherous board. Each player takes a turn, strategically planning their slide to outmaneuver their rival. It's a fast-paced race of logic and foresight, as the first player to successfully land on the target wins.
